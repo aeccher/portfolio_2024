@@ -10,7 +10,7 @@ import ChartJsView from '../views/ChartJsView.vue'
 import ProjetS5View from '../views/ProjetS5View.vue'
 import ProjetS6View from '../views/ProjetS6View.vue'
 import ThreeJsView from '../views/ThreeJsView.vue'
-import MaisonThreeJsView from '../views/MaisonThreeJsView.vue'
+import MaisonThreeJSView from '../views/MaisonThreeJSView.vue'
 import MoThreeJsView from '../views/MoThreeJsView.vue'
 import ExpoUnivView from '../views/ExpoUnivView.vue'
 import CassandreView from '../views/CassandreView.vue'
@@ -41,7 +41,7 @@ const router = createRouter({
     { path: '/projets5', name: 'ProjetS5', component: ProjetS5View },
     { path: '/projets6', name: 'ProjetS6', component: ProjetS6View },
     { path: '/threejs', name: 'ThreeJs', component: ThreeJsView },
-    { path: '/maison-threejs', name: 'MaisonThreeJs', component: MaisonThreeJsView },
+    { path: '/maison-threejs', name: 'MaisonThreeJS', component: MaisonThreeJSView },
     { path: '/mo-threejs', name: 'MoThreeJs', component: MoThreeJsView },
     { path: '/exposition-universelle', name: 'ExpoUniv', component: ExpoUnivView },
     { path: '/cassandre', name: 'Cassandre', component: CassandreView },
