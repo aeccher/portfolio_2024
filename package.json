@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "@heroicons/vue": "^1.0.6",
+    "leaflet": "^1.9.4",
+    "typed.js": "^2.1.0",
     "vue": "^3.2.33",
     "vue-router": "^4.0.14"
   },
